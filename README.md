@@ -18,6 +18,9 @@ Before start:
 5. Run the game with command:
 - python3 main.py
 
+## For Windows users
+In the 'dist' folder, you will find an executable file for Windows. To run the game, you will need all the files from the 'dist' folder
+
 ## Conclusion
 Details about how the game works with screenshots are in the Report.pdf file.
 I hope you will enjoy the game =)
